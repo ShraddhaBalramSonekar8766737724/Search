@@ -10,5 +10,4 @@ Clone the project and run to get started.
 ![](snaps/screenshots_banner.png)
 
 ## Author
-
-* **[Shraddha Sonekar]**
+Shraddha Sonekar
